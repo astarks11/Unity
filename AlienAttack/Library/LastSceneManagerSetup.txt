@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AlienAttack.unity
+  isLoaded: 1
+  isActive: 1
