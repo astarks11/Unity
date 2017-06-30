@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndoorScene.Plugins", "IndoorScene.Plugins.csproj", "{C72DAF60-FC25-36A5-29BB-1BCF52C8FA19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndoorScene", "IndoorScene.csproj", "{AFC3A034-6DB6-BD53-A82A-2AF2CF61B5A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndoorScene.Editor.Plugins", "IndoorScene.Editor.Plugins.csproj", "{BFE5EC13-57FC-7826-C667-05D9FE5EEECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndoorScene.Editor", "IndoorScene.Editor.csproj", "{94C1BFD6-2480-E80F-7A08-69A16BCA05C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72DAF60-FC25-36A5-29BB-1BCF52C8FA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72DAF60-FC25-36A5-29BB-1BCF52C8FA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72DAF60-FC25-36A5-29BB-1BCF52C8FA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72DAF60-FC25-36A5-29BB-1BCF52C8FA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC3A034-6DB6-BD53-A82A-2AF2CF61B5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC3A034-6DB6-BD53-A82A-2AF2CF61B5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC3A034-6DB6-BD53-A82A-2AF2CF61B5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC3A034-6DB6-BD53-A82A-2AF2CF61B5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE5EC13-57FC-7826-C667-05D9FE5EEECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE5EC13-57FC-7826-C667-05D9FE5EEECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE5EC13-57FC-7826-C667-05D9FE5EEECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE5EC13-57FC-7826-C667-05D9FE5EEECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C1BFD6-2480-E80F-7A08-69A16BCA05C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C1BFD6-2480-E80F-7A08-69A16BCA05C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C1BFD6-2480-E80F-7A08-69A16BCA05C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C1BFD6-2480-E80F-7A08-69A16BCA05C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
